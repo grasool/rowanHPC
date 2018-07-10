@@ -2,8 +2,8 @@
 Setup instructions for Rowan University Computational Cluster (RUCC)
 
 After you have been granted access to rucc, please follow the step below:
-1.	Download and install putty (for Wondows system) 
-2.	Connect to http://rucc.rowan.edu/.
+1.	Download and install putty (for Windows system) 
+2.	Connect to rucc.rowan.edu. If you are connecting from home, you may need Rowan VPN. Please contact Rowan IRT.
 3.	When prompted, use Rowan username and password.
 4.	Please verify and confirm if you are in the _**bash**_ shell. You can use: 
     * ```echo $0 ```
